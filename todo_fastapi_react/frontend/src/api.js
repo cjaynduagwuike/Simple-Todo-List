@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8000/api";
+const BASE = "https://simple-todo-list-ztoa.onrender.com/api";
 
 export const api = {
   // Todos
